@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Mokki78/actions2/issues"
   },
-  "homepage": "https://github.com/Mokki78/actions2#readme"
+  "homepage": "https://github.com/Mokki78/actions2#readme",
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
 }
